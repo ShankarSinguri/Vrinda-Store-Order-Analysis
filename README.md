@@ -1,6 +1,6 @@
 # Vrinda Store Data Analysis (Excel Project)
 
-This project simulates end-to-end order tracking and fulfillment analysis for a fictional e-commerce store, *Vrinda Store*. Built using **Microsoft Excel**, it demonstrates the ability to analyze customer orders, track shipment performance, and derive insights for logistics and sales operations.
+This project simulates end-to-end order tracking and fulfillment analysis for a e-commerce store, *Vrinda Store*. Built using **Microsoft Excel**, it demonstrates the ability to analyze customer orders, track shipment performance, and derive insights for logistics and sales operations.
 
 ---
 
